@@ -1,2 +1,2 @@
-# Cloud-GCP
+# CloudGCP
 Simple example in Terraform
